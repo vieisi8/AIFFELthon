@@ -24,8 +24,9 @@ AIFFELthon??
 ![image](https://github.com/user-attachments/assets/d31f0f1f-964a-403a-b86e-1acda0482b5d)
 
 ## 프로젝트 기여
-  - 맡은 Tool(IUPAC2SMILES) 구현
-  - Agent 구현
+  - IUPAC2SMILES Tool 개발
+  - 개발된 각 툴의 내부 코드 수정 및 최적화하여 기능 및 효율성 개선
+  - Agent 내부 코드를 수정, 구현된 Tool을 통합, Agent 프롬프트 엔지니어링
 
 ## YJS 시연
 
