@@ -28,3 +28,6 @@ AIFFELthon??
   - Agent 구현
 
 ## YJS 시연
+
+https://github.com/user-attachments/assets/10023a16-8487-401c-ad53-dc95fee40dc8
+
