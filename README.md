@@ -4,6 +4,8 @@ AIFFELthon??
   - 총 60일간 진행 (24.12.13~25.02.10)
 
 # YJS
+- 신약 특허 및 논문에서 물질 구조-활성 정보를 추출하는 LLM Agent
+
 ![image](https://github.com/user-attachments/assets/b485e975-f4ee-43d3-98ba-196b7c1d304f)
   - 기업(아이젠사이언스)와 협업한 프로젝트
     - 기업과 협업 프로젝트기에 중요한 정보 기입 X
